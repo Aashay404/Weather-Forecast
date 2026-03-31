@@ -19,7 +19,7 @@ Clean dark dashboard layout
 
 React (Hooks)
 
-Tailwind CSS
+Tailwind CSS and 
 
 Vite and
 
