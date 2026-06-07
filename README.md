@@ -11,7 +11,7 @@ Current temperature and weather condition
 
 Wind speed, humidity, visibility
 
-Air Quality Index (AQI)
+Air Quality Index 
 
 Clean dark dashboard layout
 
