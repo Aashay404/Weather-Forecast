@@ -17,8 +17,7 @@ Clean dark dashboard layout
 
 ## Tech Stack
 
-React (Hooks)
-
+React 
 Tailwind CSS and 
 
 Vite and
